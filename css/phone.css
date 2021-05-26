@@ -40,10 +40,18 @@
     padding: 2px;
 }
 
+#client-section::before { 
+    height: 16%;
+}
 /* Contact Us secton  */
 #contact-box form{
     width: 80%;
 }
+
+#contact::before {
+    height: 72%;
+}
+
 
 /* Footer section */
 
