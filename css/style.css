@@ -154,7 +154,7 @@ margin: 0px 23px;
 
 /* Contact Us  */
 #contact{
-    position: relative;
+/*     position: relative; */
 }
 
 #contact::before{
