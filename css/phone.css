@@ -3,6 +3,10 @@
     flex-direction: column;
 }
 
+#navbar ul{
+    margin-top: -9px;
+}
+
 #navbar ul li a{
     font-size: .9rem;
     padding: 0px 7px;
@@ -17,7 +21,7 @@
     /* height: 400px; */
 }
 #home p{
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* Services section  */
@@ -47,7 +51,7 @@
 
 /* Utility classes  */
 .h-primary{
-    font-size: 26px;
+    font-size: 37px;
 }
 .bts{
     font-size: 13px;
