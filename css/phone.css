@@ -41,7 +41,7 @@
 }
 
 #client-section::before { 
-    height: 16%;
+    height: 19%;
 }
 /* Contact Us secton  */
 #contact-box form{
@@ -49,7 +49,7 @@
 }
 
 #contact::before {
-    height: 72%;
+    height: 84%;
 }
 
 
