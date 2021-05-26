@@ -39,20 +39,10 @@
 .client-item{
     padding: 2px;
 }
-
-#client-section::before { 
-    height: 19%;
-}
 /* Contact Us secton  */
 #contact-box form{
     width: 80%;
 }
-
-#contact::before {
-    height: 84%;
-}
-
-
 /* Footer section */
 
 /* Utility classes  */
